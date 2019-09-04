@@ -1,0 +1,35 @@
+{
+  "policyTermsInstanceRecord" : {
+    "bankPolicyRuleType" : "bankPolicyRuleType",
+    "applicableBankPolicyRuleInterpretation" : "applicableBankPolicyRuleInterpretation",
+    "applicableBankPolicyRuleReference" : "765897"
+  },
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "783775",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "754719",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "719014",
+    "legalEntityReference" : "769867",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "790531",
+    "documentDirectoryEntryInstanceReference" : "783524"
+  },
+  "policyTermsInstanceAnalysis" : {
+    "policyTermsInstanceAnalysisReport" : {},
+    "policyTermsInstanceAnalysisParameters" : "policyTermsInstanceAnalysisParameters",
+    "policyTermsInstanceAnalysisRecord" : {},
+    "policyTermsInstanceAnalysisReportType" : "policyTermsInstanceAnalysisReportType"
+  },
+  "policyTermsRetrieveActionTaskReference" : "PTRATR761849",
+  "policyTermsRetrieveActionTaskRecord" : {},
+  "policyTermsRetrieveActionResponse" : "policyTermsRetrieveActionResponse",
+  "policyTermsInstanceReport" : {
+    "policyTermsInstanceReportRecord" : {},
+    "policyTermsInstanceReportType" : "policyTermsInstanceReportType",
+    "policyTermsInstanceReportParameters" : "policyTermsInstanceReportParameters",
+    "policyTermsInstanceReport" : {}
+  }
+}

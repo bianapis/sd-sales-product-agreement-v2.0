@@ -1,0 +1,28 @@
+{
+  "salesProductAgreementRetrieveActionTaskRecord" : {},
+  "salesProductAgreementRetrieveActionResponse" : "salesProductAgreementRetrieveActionResponse",
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "737020",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "724461",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "719123",
+    "legalEntityReference" : "763660",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "738329",
+    "documentDirectoryEntryInstanceReference" : "783337"
+  },
+  "salesProductAgreementInstanceAnalysis" : {
+    "salesProductAgreementInstanceAnalysisReport" : {},
+    "salesProductAgreementInstanceAnalysisReportType" : "salesProductAgreementInstanceAnalysisReportType",
+    "salesProductAgreementInstanceAnalysisData" : "salesProductAgreementInstanceAnalysisData"
+  },
+  "salesProductAgreementRetrieveActionTaskReference" : "SPARATR741425",
+  "salesProductAgreementInstanceReportRecord" : {
+    "salesProductAgreementInstanceReport" : {},
+    "salesProductAgreementInstanceReportData" : "salesProductAgreementInstanceReportData",
+    "salesProductAgreementInstanceReportType" : "salesProductAgreementInstanceReportType"
+  }
+}

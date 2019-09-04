@@ -1,0 +1,12 @@
+{
+  "salesProductAgreementInstanceRecord" : {
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "745096"
+  },
+  "salesProductAgreementEvaluateActionRecord" : {},
+  "salesProductAgreementEvaluateActionReference" : "SPAEAR791933",
+  "salesProductAgreementInstanceReference" : "SPAIR786070",
+  "salesProductAgreementInstanceStatus" : "salesProductAgreementInstanceStatus"
+}

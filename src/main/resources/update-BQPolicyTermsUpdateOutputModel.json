@@ -1,0 +1,22 @@
+{
+  "policyTermsInstanceRecord" : {
+    "bankPolicyRuleType" : "bankPolicyRuleType",
+    "applicableBankPolicyRuleReference" : "701067"
+  },
+  "policyTermsUpdateActionTaskRecord" : {},
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "788778",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "752556",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "787447",
+    "legalEntityReference" : "776689",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "756627",
+    "documentDirectoryEntryInstanceReference" : "790138"
+  },
+  "updateResponseRecord" : {},
+  "policyTermsUpdateActionTaskReference" : "PTUATR736038"
+}

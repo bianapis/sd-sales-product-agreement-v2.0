@@ -1,0 +1,35 @@
+{
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "758759",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "715038",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "763555",
+    "legalEntityReference" : "729958",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "726178",
+    "documentDirectoryEntryInstanceReference" : "743237"
+  },
+  "regulatoryTermsRetrieveActionTaskRecord" : {},
+  "regulatoryTermsInstanceRecord" : {
+    "applicableRegulationReference" : "714972",
+    "applicableRegulationInterpretation" : "applicableRegulationInterpretation",
+    "regulatoryAuthority" : "regulatoryAuthority"
+  },
+  "regulatoryTermsInstanceReport" : {
+    "regulatoryTermsInstanceReportRecord" : {},
+    "regulatoryTermsInstanceReportType" : "regulatoryTermsInstanceReportType",
+    "regulatoryTermsInstanceReport" : {},
+    "regulatoryTermsInstanceReportParameters" : "regulatoryTermsInstanceReportParameters"
+  },
+  "regulatoryTermsInstanceAnalysis" : {
+    "regulatoryTermsInstanceAnalysisReportType" : "regulatoryTermsInstanceAnalysisReportType",
+    "regulatoryTermsInstanceAnalysisRecord" : {},
+    "regulatoryTermsInstanceAnalysisReport" : {},
+    "regulatoryTermsInstanceAnalysisParameters" : "regulatoryTermsInstanceAnalysisParameters"
+  },
+  "regulatoryTermsRetrieveActionResponse" : "regulatoryTermsRetrieveActionResponse",
+  "regulatoryTermsRetrieveActionTaskReference" : "RTRATR705653"
+}

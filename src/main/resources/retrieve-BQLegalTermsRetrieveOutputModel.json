@@ -1,0 +1,35 @@
+{
+  "legalTermsInstanceRecord" : {
+    "applicableLawReference" : "707761",
+    "jurisdiction" : "jurisdiction",
+    "applicableLawInterpretation" : "applicableLawInterpretation"
+  },
+  "legalTermsInstanceAnalysis" : {
+    "legalTermsInstanceAnalysisParameters" : "legalTermsInstanceAnalysisParameters",
+    "legalTermsInstanceAnalysisReport" : {},
+    "legalTermsInstanceAnalysisRecord" : {},
+    "legalTermsInstanceAnalysisReportType" : "legalTermsInstanceAnalysisReportType"
+  },
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "740968",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "743742",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "708655",
+    "legalEntityReference" : "711275",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "720451",
+    "documentDirectoryEntryInstanceReference" : "731401"
+  },
+  "legalTermsRetrieveActionTaskRecord" : {},
+  "legalTermsRetrieveActionTaskReference" : "LTRATR769583",
+  "legalTermsInstanceReport" : {
+    "legalTermsInstanceReportParameters" : "legalTermsInstanceReportParameters",
+    "legalTermsInstanceReportType" : "legalTermsInstanceReportType",
+    "legalTermsInstanceReportRecord" : {},
+    "legalTermsInstanceReport" : {}
+  },
+  "legalTermsRetrieveActionResponse" : "legalTermsRetrieveActionResponse"
+}

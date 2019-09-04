@@ -1,0 +1,9 @@
+{
+  "policyTermsInstanceRecord" : {
+    "applicableBankPolicyRuleInterpretation" : "applicableBankPolicyRuleInterpretation"
+  },
+  "policyTermsInstanceReference" : "PTIR715319",
+  "policyTermsInitiateActionReference" : "PTIAR745356",
+  "policyTermsInitiateActionRecord" : {},
+  "policyTermsInstanceStatus" : "policyTermsInstanceStatus"
+}

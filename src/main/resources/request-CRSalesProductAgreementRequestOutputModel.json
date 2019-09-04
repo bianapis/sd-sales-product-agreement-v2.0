@@ -1,0 +1,19 @@
+{
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "745043",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "770244",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "708232",
+    "legalEntityReference" : "746844",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "725539",
+    "documentDirectoryEntryInstanceReference" : "700081"
+  },
+  "requestRecordReference" : "RRR707162",
+  "salesProductAgreementRequestActionTaskRecord" : {},
+  "salesProductAgreementRequestActionTaskReference" : "SPARATR755466",
+  "requestResponseRecord" : {}
+}

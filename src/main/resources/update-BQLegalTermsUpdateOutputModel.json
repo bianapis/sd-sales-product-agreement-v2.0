@@ -1,0 +1,22 @@
+{
+  "legalTermsInstanceRecord" : {
+    "applicableLawReference" : "720693",
+    "jurisdiction" : "jurisdiction"
+  },
+  "legalTermsUpdateActionTaskReference" : "LTUATR747215",
+  "legalTermsUpdateActionTaskRecord" : {},
+  "salesProductAgreementInstanceRecord" : {
+    "productInstanceReference" : "707983",
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "708613",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "725771",
+    "legalEntityReference" : "748307",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "productServiceType" : "productServiceType",
+    "customerAgreementReference" : "757183",
+    "documentDirectoryEntryInstanceReference" : "730018"
+  },
+  "updateResponseRecord" : {}
+}

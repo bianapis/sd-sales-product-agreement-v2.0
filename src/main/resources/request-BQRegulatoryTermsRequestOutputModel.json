@@ -1,0 +1,11 @@
+{
+  "regulatoryTermsInstanceRecord" : {
+    "applicableRegulationReference" : "788447",
+    "applicableRegulationInterpretation" : "applicableRegulationInterpretation",
+    "regulatoryAuthority" : "regulatoryAuthority"
+  },
+  "regulatoryTermsRequestActionTaskRecord" : {},
+  "regulatoryTermsRequestRecordReference" : "RTRRR763359",
+  "regulatoryTermsRequestActionTaskReference" : "RTRATR769308",
+  "requestResponseRecord" : {}
+}
